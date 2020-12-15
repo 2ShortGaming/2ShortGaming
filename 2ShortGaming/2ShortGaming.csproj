@@ -67,8 +67,19 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="2ShortGamingLogo.png" />
     <Content Include="index.html" />
     <Content Include="merchandise.html" />
+    <Content Include="Merch\ACME1s.png" />
+    <Content Include="Merch\ACMEHood.png" />
+    <Content Include="Merch\ACMEMug.png" />
+    <Content Include="Merch\ACMEts.png" />
+    <Content Include="Merch\CC1s.png" />
+    <Content Include="Merch\CCHood.png" />
+    <Content Include="Merch\CCMug.png" />
+    <Content Include="Merch\CCts.png" />
+    <Content Include="Merch\RETROHood.png" />
+    <Content Include="Merch\RETROts.png" />
     <Content Include="src\app\css\app.css" />
     <Content Include="src\app\css\app.min.css" />
     <Content Include="src\app\css\doc.css" />
