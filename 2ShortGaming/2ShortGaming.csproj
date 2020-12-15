@@ -205,7 +205,7 @@
     <Content Include="src\img\work\09.jpg" />
     <Content Include="src\img\work\10.jpg" />
     <Content Include="src\img\x1.png" />
-    <Content Include="src\php\sendmail.php" />
+    <Content Include="sendmail.php" />
     <Content Include="src\video\video1.mp4" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -241,6 +241,7 @@
   <ItemGroup>
     <Folder Include="css\" />
     <Folder Include="js\" />
+    <Folder Include="src\php\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
