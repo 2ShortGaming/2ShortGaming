@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="2ShortGamingLogo.png" />
+    <Content Include="contact.html" />
     <Content Include="index.html" />
     <Content Include="merchandise.html" />
     <Content Include="Merch\ACME1s.png" />
