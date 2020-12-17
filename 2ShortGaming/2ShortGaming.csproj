@@ -182,6 +182,7 @@
     <Content Include="src\img\doc\star5.png" />
     <Content Include="src\img\empty.png" />
     <Content Include="src\img\favicon.png" />
+    <Content Include="src\img\me.jpg" />
     <Content Include="src\img\people\01.jpg" />
     <Content Include="src\img\people\02.jpg" />
     <Content Include="src\img\people\03.jpg" />
@@ -207,6 +208,7 @@
     <Content Include="src\img\work\10.jpg" />
     <Content Include="src\img\x1.png" />
     <Content Include="sendmail.php" />
+    <Content Include="src\img\medup.jpg" />
     <Content Include="src\video\video1.mp4" />
     <Content Include="Web.config" />
   </ItemGroup>
