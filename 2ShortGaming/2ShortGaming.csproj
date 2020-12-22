@@ -179,10 +179,15 @@
     <Content Include="src\img\client\04.png" />
     <Content Include="src\img\client\05.png" />
     <Content Include="src\img\client\06.png" />
+    <Content Include="src\img\dec21.png" />
     <Content Include="src\img\doc\author.png" />
     <Content Include="src\img\doc\star5.png" />
     <Content Include="src\img\empty.png" />
     <Content Include="src\img\me.jpg" />
+    <Content Include="src\img\nov14.png" />
+    <Content Include="src\img\nov17.png" />
+    <Content Include="src\img\nov8.png" />
+    <Content Include="src\img\oct5.png" />
     <Content Include="src\img\people\01.jpg" />
     <Content Include="src\img\people\02.jpg" />
     <Content Include="src\img\people\03.jpg" />
