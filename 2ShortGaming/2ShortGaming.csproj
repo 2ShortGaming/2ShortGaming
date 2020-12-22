@@ -89,6 +89,7 @@
     <Content Include="src\app\css\uikit-custom.min.css" />
     <Content Include="src\app\js\app.js" />
     <Content Include="src\app\js\plugins.min.js" />
+    <Content Include="src\img\cartoonme.jpg" />
     <Content Include="src\html-master\html-page\dark-blog-list.html" />
     <Content Include="src\html-master\html-page\dark-blog-single.html" />
     <Content Include="src\html-master\html-page\dark-index.html" />
@@ -181,7 +182,6 @@
     <Content Include="src\img\doc\author.png" />
     <Content Include="src\img\doc\star5.png" />
     <Content Include="src\img\empty.png" />
-    <Content Include="src\img\favicon.png" />
     <Content Include="src\img\me.jpg" />
     <Content Include="src\img\people\01.jpg" />
     <Content Include="src\img\people\02.jpg" />
@@ -206,6 +206,7 @@
     <Content Include="src\img\work\08.jpg" />
     <Content Include="src\img\work\09.jpg" />
     <Content Include="src\img\work\10.jpg" />
+    <Content Include="src\img\favicon.ico" />
     <Content Include="src\img\x1.png" />
     <Content Include="sendmail.php" />
     <Content Include="src\img\medup.jpg" />
