@@ -215,7 +215,6 @@
     <Content Include="src\img\x1.png" />
     <Content Include="sendmail.php" />
     <Content Include="src\img\medup.jpg" />
-    <Content Include="src\video\video1.mp4" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
