@@ -75,12 +75,14 @@
     <Content Include="Merch\acmehoodie.png" />
     <Content Include="Merch\acmeshirt.png" />
     <Content Include="Merch\acmesnap.png" />
+    <Content Include="Merch\acmetruck.png" />
     <Content Include="Merch\cc1s.png" />
     <Content Include="Merch\cchoodie.png" />
     <Content Include="Merch\ccshirt.png" />
     <Content Include="Merch\ACMEMug.png" />
     <Content Include="Merch\CCMug.png" />
     <Content Include="Merch\ccsnap.png" />
+    <Content Include="Merch\cctruck.png" />
     <Content Include="Merch\retro1s.png" />
     <Content Include="Merch\retroUUDDhoodie.png" />
     <Content Include="Merch\retroUUDDshirt.png" />
